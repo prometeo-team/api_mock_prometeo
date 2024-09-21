@@ -7,6 +7,7 @@
       "period": 7,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 2,
       "average_last_period": 3.4,
       "average_acumulate": 3.6,
@@ -93,6 +94,7 @@
       "period": 7,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 2,
       "average_last_period": 3.4,
       "average_acumulate": 3.6,
@@ -179,6 +181,7 @@
       "period": 10,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 3.7,
       "average_acumulate": 4.0,
@@ -622,6 +625,7 @@
       "period": 10,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 4.2,
       "average_acumulate": 4.1,
@@ -1065,6 +1069,7 @@
       "period": 2,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 3.5,
       "average_acumulate": 3.5,
@@ -1179,6 +1184,7 @@
       "period": 3,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 3.6,
       "average_acumulate": 3.55,
@@ -1349,6 +1355,7 @@
       "period": 10,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 4.0,
       "average_acumulate": 3.9,
@@ -1799,6 +1806,7 @@
       "period": 10,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 1,
       "average_last_period": 3.8,
       "average_acumulate": 3.7,
@@ -2242,6 +2250,7 @@
       "period": 3,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 3.8,
       "average_acumulate": 3.7,
@@ -2391,6 +2400,7 @@
       "period": 5,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 3.9,
       "average_acumulate": 3.85,
@@ -2596,6 +2606,7 @@
       "period": 10,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 1,
       "average_last_period": 3.7,
       "average_acumulate": 3.6,
@@ -2955,13 +2966,14 @@
     "id": "11"
   },
   {
-    "id_student": 12,
+    "id_student": 1,
     "career": {
       "career_id": 3,
       "career_name": "Ingeniería Electrónica",
       "period": 10,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 4.0,
       "average_acumulate": 3.9,
@@ -3335,6 +3347,7 @@
       "period": 2,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 3.8,
       "average_acumulate": 3.8,
@@ -3435,6 +3448,7 @@
       "period": 3,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 3.7,
       "average_acumulate": 3.75,
@@ -3577,6 +3591,7 @@
       "period": 10,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 1,
       "average_last_period": 3.9,
       "average_acumulate": 3.85,
@@ -3964,6 +3979,7 @@
       "period": 10,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 4.0,
       "average_acumulate": 3.9,
@@ -4351,6 +4367,7 @@
       "period": 2,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 3.7,
       "average_acumulate": 3.7,
@@ -4444,6 +4461,7 @@
       "period": 3,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 3.8,
       "average_acumulate": 3.75,
@@ -4572,6 +4590,7 @@
       "period": 10,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 1,
       "average_last_period": 3.8,
       "average_acumulate": 3.75,
@@ -4854,13 +4873,14 @@
     "id": "19"
   },
   {
-    "id_student": 20,
+    "id_student": 2,
     "career": {
       "career_id": 2,
       "career_name": "Ingeniería Ambiental",
       "period": 10,
       "study_type": "pregrado",
       "study_time": "Diurno",
+      "admission_date": "2022-02-15",
       "count_lose_quality_study": 0,
       "average_last_period": 4.0,
       "average_acumulate": 3.9,
@@ -5141,5 +5161,367 @@
       ]
     },
     "id": "20"
+  },
+  {
+    "id_student": 9,
+    "career": {
+      "career_id": 6,
+      "career_name": "Especialización en Gerencia de Producción y Productividad",
+      "period": 1,
+      "study_type": "posgrado",
+      "study_time": "Diurno",
+      "admission_date": "2022-02-15",
+      "count_lose_quality_study": 0,
+      "average_last_period": 0,
+      "average_acumulate": 0,
+      "subjects": [
+        {
+          "id": 1,
+          "name": "Gerencia de Productividad y Calidad",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 2,
+          "name": "Modelos Operacionales",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 3,
+          "name": "Logística de Distribución",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 4,
+          "name": "Gestión de Costos y Métodos de Inventarios",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 5,
+          "name": "Informática Industrial",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 6,
+          "name": "Gerencia de Recursos Humanos",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 7,
+          "name": "Metodología de la Investigación",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        }
+      ]
+    },
+    "id": "21"
+  },
+  {
+    "id_student": 20,
+    "career": {
+      "career_id": 6,
+      "career_name": "Especialización en Gerencia de Producción y Productividad",
+      "period": 1,
+      "study_type": "posgrado",
+      "study_time": "Diurno",
+      "admission_date": "2022-02-15",
+      "count_lose_quality_study": 0,
+      "average_last_period": 0,
+      "average_acumulate": 0,
+      "subjects": [
+        {
+          "id": 1,
+          "name": "Gerencia de Productividad y Calidad",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 2,
+          "name": "Modelos Operacionales",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 3,
+          "name": "Logística de Distribución",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 4,
+          "name": "Gestión de Costos y Métodos de Inventarios",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 5,
+          "name": "Informática Industrial",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 6,
+          "name": "Gerencia de Recursos Humanos",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 7,
+          "name": "Metodología de la Investigación",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        }
+      ]
+    },
+    "id": "22"
+  },
+  {
+    "id_student": 21,
+    "career": {
+      "career_id": 6,
+      "career_name": "Especialización en Gerencia de Producción y Productividad",
+      "period": 2,
+      "study_type": "posgrado",
+      "study_time": "Diurno",
+      "admission_date": "2022-02-15",
+      "count_lose_quality_study": 0,
+      "average_last_period": 3.7,
+      "average_acumulate": 3.7,
+      "subjects": [
+        {
+          "id": 1,
+          "name": "Gerencia de Productividad y Calidad",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 2,
+          "name": "Modelos Operacionales",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 3,
+          "name": "Logística de Distribución",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 4,
+          "name": "Gestión de Costos y Métodos de Inventarios",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 5,
+          "name": "Informática Industrial",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 6,
+          "name": "Gerencia de Recursos Humanos",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 7,
+          "name": "Metodología de la Investigación",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 8,
+          "name": "Gerencia Estratégica de Producción",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 9,
+          "name": "Juego Gerencial",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 10,
+          "name": "Innovación y Tecnología",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 11,
+          "name": "Robótica y Telemática",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 12,
+          "name": "Sistematización de la Producción",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 13,
+          "name": "Salud Ocupacional",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 14,
+          "name": "Trabajo de Grado",
+          "credits": 3,
+          "enrolled": true,
+          "completed": false
+        }
+      ]
+    },
+    "id": 23
+  },
+  {
+    "id_student": 22,
+    "career": {
+      "career_id": 6,
+      "career_name": "Especialización en Gerencia de Producción y Productividad",
+      "period": 2,
+      "study_type": "posgrado",
+      "study_time": "Diurno",
+      "admission_date": "2022-02-15",
+      "count_lose_quality_study": 0,
+      "average_last_period": 4.7,
+      "average_acumulate": 4.7,
+      "subjects": [
+        {
+          "id": 1,
+          "name": "Gerencia de Productividad y Calidad",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 2,
+          "name": "Modelos Operacionales",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 3,
+          "name": "Logística de Distribución",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 4,
+          "name": "Gestión de Costos y Métodos de Inventarios",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 5,
+          "name": "Informática Industrial",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 6,
+          "name": "Gerencia de Recursos Humanos",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 7,
+          "name": "Metodología de la Investigación",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true
+        },
+        {
+          "id": 8,
+          "name": "Gerencia Estratégica de Producción",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 9,
+          "name": "Juego Gerencial",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 10,
+          "name": "Innovación y Tecnología",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 11,
+          "name": "Robótica y Telemática",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 12,
+          "name": "Sistematización de la Producción",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 13,
+          "name": "Salud Ocupacional",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false
+        },
+        {
+          "id": 14,
+          "name": "Trabajo de Grado",
+          "credits": 3,
+          "enrolled": true,
+          "completed": false
+        }
+      ]
+    },
+    "id": 24
   }
 ]
