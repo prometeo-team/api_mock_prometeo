@@ -17,70 +17,80 @@
           "name": "Sistemas inteligentes",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 7
         },
         {
           "id": 35,
           "name": "Legislación, normatividad y ciudadanía",
           "credits": 1,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         },
         {
           "id": 36,
           "name": "Proyecto de grado I",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         },
         {
           "id": 37,
           "name": "Proyecto de grado II",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 41,
           "name": "Electiva profesional III",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 39,
           "name": "Electiva profesional I",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         },
         {
           "id": 40,
           "name": "Electiva profesional II",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         },
         {
           "id": 20,
           "name": "Ingeniería de software I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 16,
           "name": "Bases de datos I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 17,
           "name": "Sistemas digitales y arquitectura de computador",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         }
       ]
     },
@@ -104,70 +114,80 @@
           "name": "Sistemas inteligentes",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 7
         },
         {
           "id": 35,
           "name": "Legislación, normatividad y ciudadanía",
           "credits": 1,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         },
         {
           "id": 36,
           "name": "Proyecto de grado I",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         },
         {
           "id": 37,
           "name": "Proyecto de grado II",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 41,
           "name": "Electiva profesional III",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 39,
           "name": "Electiva profesional I",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         },
         {
           "id": 40,
           "name": "Electiva profesional II",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         },
         {
           "id": 20,
           "name": "Ingeniería de software I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 16,
           "name": "Bases de datos I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 17,
           "name": "Sistemas digitales y arquitectura de computador",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         }
       ]
     },
@@ -178,7 +198,7 @@
     "career": {
       "career_id": 1,
       "career_name": "Ingeniería de Sistemas",
-      "period": 10,
+      "period": 9,
       "study_type": "pregrado",
       "study_time": "Diurno",
       "admission_date": "2022-02-15",
@@ -191,427 +211,488 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Estructuración del pensamiento I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Lógica matemática",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Matemáticas discretas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Fundamentos de programación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Introducción a la ingeniería de sistemas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Cálculo integral y ecuaciones diferenciales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 8,
           "name": "Programación I",
           "credits": 4,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 9,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Física I (Mecánica)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Estadística y probabilidad",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 12,
           "name": "Cálculo diferencial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 13,
           "name": "Programación II",
           "credits": 4,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 14,
           "name": "Estructuras de datos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 15,
           "name": "Proyecto núcleo I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 16,
           "name": "Bases de datos I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 17,
           "name": "Sistemas digitales y arquitectura de computador",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 18,
           "name": "Complejidad algorítmica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 19,
           "name": "Redes de datos I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 20,
           "name": "Ingeniería de software I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 21,
           "name": "Modelos y simulación de sistemas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 22,
           "name": "Investigación tecnológica y de ingeniería",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 23,
           "name": "Gestión de proyectos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 24,
           "name": "Redes de datos II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 25,
           "name": "Ingeniería de software II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 26,
           "name": "Ingeniería de software III",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 27,
           "name": "Microprocesadores y programación assembler",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 28,
           "name": "Sistemas operacionales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 29,
           "name": "Dinámica de sistemas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 30,
           "name": "Seminario de investigación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 31,
           "name": "Seguridad de la información",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 32,
           "name": "Sistemas inteligentes",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 33,
           "name": "Compiladores",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 34,
           "name": "Gestión de tecnología e innovación",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 35,
           "name": "Legislación, normatividad y ciudadanía",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 36,
           "name": "Proyecto de grado I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 37,
           "name": "Proyecto de grado II",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 38,
           "name": "Práctica profesional",
           "credits": 7,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 39,
           "name": "Electiva profesional I",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 40,
           "name": "Electiva profesional II",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 41,
           "name": "Electiva profesional III",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 42,
           "name": "Labor social",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 43,
           "name": "Historia y filosofía de la ingeniería",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 44,
           "name": "Electiva I",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 45,
           "name": "Electiva II",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 46,
           "name": "Electiva III",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 47,
           "name": "Electiva IV",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 48,
           "name": "Electiva V",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 49,
           "name": "Electiva VI",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 50,
           "name": "Electiva VII",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 51,
           "name": "Seminario de bioética",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 52,
           "name": "Matemáticas aplicadas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 53,
           "name": "Dirección y planeación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 54,
           "name": "Estructuración del pensamiento II",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 55,
           "name": "Estructuración del pensamiento III",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 56,
           "name": "Estructuración del pensamiento IV",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 57,
           "name": "Bases de datos II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 58,
           "name": "Proyecto núcleo II",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 59,
           "name": "Taller de práctica profesional",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 60,
           "name": "Lógica difusa",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 61,
           "name": "Física II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         }
       ]
     },
@@ -622,7 +703,7 @@
     "career": {
       "career_id": 1,
       "career_name": "Ingeniería de Sistemas",
-      "period": 10,
+      "period": 9,
       "study_type": "pregrado",
       "study_time": "Diurno",
       "admission_date": "2022-02-15",
@@ -635,427 +716,488 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Estructuración del pensamiento I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Lógica matemática",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Matemáticas discretas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Fundamentos de programación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Introducción a la ingeniería de sistemas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Cálculo integral y ecuaciones diferenciales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 8,
           "name": "Programación I",
           "credits": 4,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 9,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Física I (Mecánica)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Estadística y probabilidad",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 12,
           "name": "Cálculo diferencial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 13,
           "name": "Programación II",
           "credits": 4,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 14,
           "name": "Estructuras de datos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 15,
           "name": "Proyecto núcleo I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 16,
           "name": "Bases de datos I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 17,
           "name": "Sistemas digitales y arquitectura de computador",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 18,
           "name": "Complejidad algorítmica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 19,
           "name": "Redes de datos I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 20,
           "name": "Ingeniería de software I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 21,
           "name": "Modelos y simulación de sistemas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 22,
           "name": "Investigación tecnológica y de ingeniería",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 23,
           "name": "Gestión de proyectos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 24,
           "name": "Redes de datos II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 25,
           "name": "Ingeniería de software II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 26,
           "name": "Ingeniería de software III",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 27,
           "name": "Microprocesadores y programación assembler",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 28,
           "name": "Sistemas operacionales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 29,
           "name": "Dinámica de sistemas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 30,
           "name": "Seminario de investigación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 31,
           "name": "Seguridad de la información",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 32,
           "name": "Sistemas inteligentes",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 33,
           "name": "Compiladores",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 34,
           "name": "Gestión de tecnología e innovación",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 35,
           "name": "Legislación, normatividad y ciudadanía",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 36,
           "name": "Proyecto de grado I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 37,
           "name": "Proyecto de grado II",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 38,
           "name": "Práctica profesional",
           "credits": 7,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 39,
           "name": "Electiva profesional I",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 40,
           "name": "Electiva profesional II",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 41,
           "name": "Electiva profesional III",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 42,
           "name": "Labor social",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 43,
           "name": "Historia y filosofía de la ingeniería",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 44,
           "name": "Electiva I",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 45,
           "name": "Electiva II",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 46,
           "name": "Electiva III",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 47,
           "name": "Electiva IV",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 48,
           "name": "Electiva V",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 49,
           "name": "Electiva VI",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 50,
           "name": "Electiva VII",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 51,
           "name": "Seminario de bioética",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 52,
           "name": "Matemáticas aplicadas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 53,
           "name": "Dirección y planeación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 54,
           "name": "Estructuración del pensamiento II",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 55,
           "name": "Estructuración del pensamiento III",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 56,
           "name": "Estructuración del pensamiento IV",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 57,
           "name": "Bases de datos II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 58,
           "name": "Proyecto núcleo II",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 59,
           "name": "Taller de práctica profesional",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 60,
           "name": "Lógica difusa",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 61,
           "name": "Física II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         }
       ]
     },
@@ -1079,98 +1221,112 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 14,
           "name": "Física básica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 22,
           "name": "Informática I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 24,
           "name": "Introducción a la ingeniería industrial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 31,
           "name": "Estructuración del pensamiento I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 35,
           "name": "Derecho básico",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 65,
           "name": "Dibujo",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Cálculo I diferencial",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 3,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 15,
           "name": "Física I mecánica",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 32,
           "name": "Estructuración del pensamiento II",
           "credits": 1,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 36,
           "name": "Legislación comercial",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 28,
           "name": "Micro y macro economía",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 60,
           "name": "Ecología",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         }
       ]
     },
@@ -1194,154 +1350,176 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 14,
           "name": "Física básica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 22,
           "name": "Informática I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 24,
           "name": "Introducción a la ingeniería industrial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 31,
           "name": "Estructuración del pensamiento I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 35,
           "name": "Derecho básico",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 65,
           "name": "Dibujo",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Cálculo I diferencial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 3,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 15,
           "name": "Física I mecánica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 32,
           "name": "Estructuración del pensamiento II",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 36,
           "name": "Legislación comercial",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 28,
           "name": "Micro y macro economía",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 60,
           "name": "Ecología",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 4,
           "name": "Cálculo II integral",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 16,
           "name": "Física II y electrónica",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 33,
           "name": "Historia y filosofía de la ciencia",
           "credits": 1,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 37,
           "name": "Empresarismo I",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 4
         },
         {
           "id": 25,
           "name": "Contabilidad",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 34,
           "name": "Teoría general de sistemas",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 66,
           "name": "Universitología",
           "credits": 1,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 50,
           "name": "Métodos de investigación",
           "credits": 1,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         }
       ]
     },
@@ -1365,434 +1543,496 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Cálculo I diferencial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 3,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 4,
           "name": "Cálculo II integral",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 5,
           "name": "Cálculo III vectorial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 6,
           "name": "Ecuaciones diferenciales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 7,
           "name": "Probabilidad",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 8,
           "name": "Programación lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 9,
           "name": "Inferencia estadística",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 10,
           "name": "Investigación de operaciones",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 11,
           "name": "Control de calidad",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 12,
           "name": "Ingeniería de métodos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 13,
           "name": "Producción",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 14,
           "name": "Física básica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 15,
           "name": "Física I mecánica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 16,
           "name": "Física II y electrónica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 17,
           "name": "Física III fluidos, calor y ondas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 18,
           "name": "Termodinámica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 19,
           "name": "Procesos industriales I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 20,
           "name": "Ingeniería de seguridad",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 21,
           "name": "Gestión ambiental y ergonomía",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 22,
           "name": "Informática I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 23,
           "name": "Informática II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 24,
           "name": "Introducción a la ingeniería industrial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 25,
           "name": "Contabilidad",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 26,
           "name": "Contabilidad de costos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 27,
           "name": "Ingeniería económica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 28,
           "name": "Micro y macro economía",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 29,
           "name": "Finanzas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 30,
           "name": "Práctica social",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 31,
           "name": "Estructuración del pensamiento I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 32,
           "name": "Estructuración del pensamiento II",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 33,
           "name": "Historia y filosofía de la ciencia",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 34,
           "name": "Teoría general de sistemas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 35,
           "name": "Derecho básico",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 36,
           "name": "Legislación comercial",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 37,
           "name": "Empresarismo I",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 38,
           "name": "Empresarismo II",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 39,
           "name": "Materiales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 40,
           "name": "Procesos industriales II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 41,
           "name": "Procesos estocásticos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 42,
           "name": "Gestión logística",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 43,
           "name": "Mercadeo",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 44,
           "name": "Investigación de mercados",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 45,
           "name": "Práctica profesional",
           "credits": 6,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 10
         },
         {
           "id": 47,
           "name": "Administración de salarios",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 48,
           "name": "Seminario de bioética",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 49,
           "name": "Proyecto de trabajo de grado",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 50,
           "name": "Métodos de investigación",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 51,
           "name": "Trabajo de grado",
           "credits": 5,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 10
         },
         {
           "id": 52,
           "name": "Servucción",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 53,
           "name": "Diseño de plantas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 60,
           "name": "Ecología",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 61,
           "name": "Química industrial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 62,
           "name": "Electrotecnia",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 46,
           "name": "Evaluación y gerencia de proyectos",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 63,
           "name": "Estática y dinámica",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 64,
           "name": "Gestión humana",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 7
         },
         {
           "id": 65,
           "name": "Dibujo",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 66,
           "name": "Universitología",
           "credits": 1,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 67,
           "name": "Introducción a la administración",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 68,
           "name": "Ecodiseño",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 4
         }
       ]
     },
@@ -1816,427 +2056,496 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Cálculo I diferencial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 3,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 4,
           "name": "Cálculo II integral",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 5,
           "name": "Cálculo III vectorial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 6,
           "name": "Ecuaciones diferenciales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 7,
           "name": "Probabilidad",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 8,
           "name": "Programación lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 9,
           "name": "Inferencia estadística",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 10,
           "name": "Investigación de operaciones",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 11,
           "name": "Control de calidad",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 12,
           "name": "Ingeniería de métodos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 13,
           "name": "Producción",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 14,
           "name": "Física básica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 15,
           "name": "Física I mecánica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 16,
           "name": "Física II y electrónica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 17,
           "name": "Física III fluidos, calor y ondas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 18,
           "name": "Termodinámica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 19,
           "name": "Procesos industriales I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 20,
           "name": "Ingeniería de seguridad",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 21,
           "name": "Gestión ambiental y ergonomía",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 22,
           "name": "Informática I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 23,
           "name": "Informática II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 24,
           "name": "Introducción a la ingeniería industrial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 25,
           "name": "Contabilidad",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 26,
           "name": "Contabilidad de costos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 27,
           "name": "Ingeniería económica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 28,
           "name": "Micro y macro economía",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 29,
           "name": "Finanzas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 30,
           "name": "Práctica social",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 31,
           "name": "Estructuración del pensamiento I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 32,
           "name": "Estructuración del pensamiento II",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 33,
           "name": "Historia y filosofía de la ciencia",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 34,
           "name": "Teoría general de sistemas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 35,
           "name": "Derecho básico",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 36,
           "name": "Legislación comercial",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 37,
           "name": "Empresarismo I",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 38,
           "name": "Empresarismo II",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 39,
           "name": "Materiales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 40,
           "name": "Procesos industriales II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 41,
           "name": "Procesos estocásticos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 42,
           "name": "Gestión logística",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 43,
           "name": "Mercadeo",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 44,
           "name": "Investigación de mercados",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 45,
           "name": "Práctica profesional",
           "credits": 6,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 10
+        },
+        {
+          "id": 46,
+          "name": "Evaluación y gerencia de proyectos",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 47,
           "name": "Administración de salarios",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 48,
           "name": "Seminario de bioética",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 49,
           "name": "Proyecto de trabajo de grado",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 50,
           "name": "Métodos de investigación",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 51,
           "name": "Trabajo de grado",
           "credits": 5,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 10
         },
         {
           "id": 52,
           "name": "Servucción",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 53,
           "name": "Diseño de plantas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 60,
           "name": "Ecología",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 61,
           "name": "Química industrial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 62,
           "name": "Electrotecnia",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 4
         },
         {
           "id": 63,
           "name": "Estática y dinámica",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 64,
           "name": "Gestión humana",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 7
         },
         {
           "id": 65,
           "name": "Dibujo",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 66,
           "name": "Universitología",
           "credits": 1,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 67,
           "name": "Introducción a la administración",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 68,
           "name": "Ecodiseño",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 4
         }
       ]
     },
@@ -2260,133 +2569,152 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Cálculo diferencial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Física I (Mecánica)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Introducción a la ingeniería electrónica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Programación básica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Estructuración del pensamiento I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 8,
           "name": "Cálculo integral",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 9,
           "name": "Física II (Electromagnetismo)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Circuitos eléctricos I y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Medición y simulación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 12,
           "name": "Estructuración del pensamiento II",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 13,
           "name": "Cálculo vectorial",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 14,
           "name": "Física III (Ondas y óptica)",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 15,
           "name": "Circuitos eléctricos II y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 16,
           "name": "Programación avanzada",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 17,
           "name": "Historia y filosofía de la ciencia",
           "credits": 1,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 19,
           "name": "Electrotecnia",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 4
         },
         {
           "id": 22,
           "name": "Introducción a las telecomunicaciones",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 4
         }
       ]
     },
@@ -2410,189 +2738,216 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Cálculo diferencial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Física I (Mecánica)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Introducción a la ingeniería electrónica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Programación básica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Estructuración del pensamiento I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 8,
           "name": "Cálculo integral",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 9,
           "name": "Física II (Electromagnetismo)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Circuitos eléctricos I y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Medición y simulación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 12,
           "name": "Estructuración del pensamiento II",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 13,
           "name": "Cálculo vectorial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 14,
           "name": "Física III (Ondas y óptica)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 15,
           "name": "Circuitos eléctricos II y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 16,
           "name": "Programación avanzada",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 17,
           "name": "Historia y filosofía de la ciencia",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 18,
           "name": "Ecuaciones diferenciales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 19,
           "name": "Electrotecnia",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 20,
           "name": "Circuitos electrónicos I y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 21,
           "name": "Bases de datos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 22,
           "name": "Introducción a las telecomunicaciones",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 23,
           "name": "Matemáticas especiales",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 4
         },
         {
           "id": 24,
           "name": "Circuitos electrónicos II y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 5
         },
         {
           "id": 25,
           "name": "Circuitos digitales I y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 5
         },
         {
           "id": 26,
           "name": "Programación en internet",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 5
         },
         {
           "id": 32,
           "name": "Potencia eléctrica",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 6
         }
       ]
     },
@@ -2616,350 +2971,416 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Cálculo diferencial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Física I (Mecánica)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Introducción a la ingeniería electrónica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Programación básica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Estructuración del pensamiento I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 8,
           "name": "Cálculo integral",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 9,
           "name": "Física II (Electromagnetismo)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Circuitos eléctricos I y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Medición y simulación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 12,
           "name": "Estructuración del pensamiento II",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 13,
           "name": "Cálculo vectorial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 14,
           "name": "Física III (Ondas y óptica)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 15,
           "name": "Circuitos eléctricos II y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 16,
           "name": "Programación avanzada",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 17,
           "name": "Historia y filosofía de la ciencia",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 18,
           "name": "Ecuaciones diferenciales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 19,
           "name": "Electrotecnia",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 20,
           "name": "Circuitos electrónicos I y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 21,
           "name": "Bases de datos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 22,
           "name": "Introducción a las telecomunicaciones",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 23,
           "name": "Matemáticas especiales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 24,
           "name": "Circuitos electrónicos II y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 25,
           "name": "Circuitos digitales I y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 26,
           "name": "Programación en internet",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 27,
           "name": "Sensórica e instrumentación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 28,
           "name": "Estadística y probabilidad",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 29,
           "name": "Circuitos digitales II y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 30,
           "name": "Programación en Java",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 31,
           "name": "Circuitos digitales III y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 32,
           "name": "Potencia eléctrica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
-        },
-        {
-          "id": 35,
-          "name": "Telefonía y conmutación",
-          "credits": 3,
-          "enrolled": true,
-          "completed": true
-        },
-        {
-          "id": 36,
-          "name": "Biomecánica",
-          "credits": 3,
-          "enrolled": true,
-          "completed": true
-        },
-        {
-          "id": 37,
-          "name": "Proyecto I",
-          "credits": 3,
-          "enrolled": true,
-          "completed": true
-        },
-        {
-          "id": 38,
-          "name": "Control II y laboratorio",
-          "credits": 3,
-          "enrolled": true,
-          "completed": true
-        },
-        {
-          "id": 39,
-          "name": "Teleinformática",
-          "credits": 3,
-          "enrolled": true,
-          "completed": true
-        },
-        {
-          "id": 40,
-          "name": "Electrónica de potencia",
-          "credits": 3,
-          "enrolled": true,
-          "completed": true
-        },
-        {
-          "id": 41,
-          "name": "Fisiología",
-          "credits": 3,
-          "enrolled": true,
-          "completed": true
-        },
-        {
-          "id": 42,
-          "name": "Evaluación de proyectos",
-          "credits": 3,
-          "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 33,
           "name": "Control I y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": true,
+          "semester": 6
+        },
+        {
+          "id": 35,
+          "name": "Telefonía y conmutación",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 7
+        },
+        {
+          "id": 36,
+          "name": "Biomecánica",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 7
+        },
+        {
+          "id": 37,
+          "name": "Proyecto I",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 7
+        },
+        {
+          "id": 38,
+          "name": "Control II y laboratorio",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 8
+        },
+        {
+          "id": 39,
+          "name": "Teleinformática",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 8
+        },
+        {
+          "id": 40,
+          "name": "Electrónica de potencia",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 8
+        },
+        {
+          "id": 41,
+          "name": "Fisiología",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 8
+        },
+        {
+          "id": 42,
+          "name": "Evaluación de proyectos",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 34,
           "name": "Automatismos industriales",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 7
         },
         {
           "id": 43,
           "name": "Control de gestión",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 44,
           "name": "Biomedicina I",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 45,
           "name": "Electiva técnica I",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 46,
           "name": "Proyecto II",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 47,
           "name": "Seminario de investigación",
           "credits": 1,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 48,
           "name": "Dirección y planeación",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 10
         },
         {
           "id": 49,
           "name": "Biomedicina II",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 10
+        },
+        {
+          "id": 50,
+          "name": "Electiva técnica II",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true,
+          "semester": 10
+        },
+        {
+          "id": 51,
+          "name": "Electiva técnica III",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false,
+          "semester": 10
         },
         {
           "id": 52,
           "name": "Proyecto final",
           "credits": 5,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 10
         }
       ]
     },
@@ -2983,357 +3404,416 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Cálculo diferencial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Física I (Mecánica)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Introducción a la ingeniería electrónica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Programación básica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Estructuración del pensamiento I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 8,
           "name": "Cálculo integral",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 9,
           "name": "Física II (Electromagnetismo)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Circuitos eléctricos I y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Medición y simulación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 12,
           "name": "Estructuración del pensamiento II",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 13,
           "name": "Cálculo vectorial",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 14,
           "name": "Física III (Ondas y óptica)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 15,
           "name": "Circuitos eléctricos II y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 16,
           "name": "Programación avanzada",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 17,
           "name": "Historia y filosofía de la ciencia",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 18,
           "name": "Ecuaciones diferenciales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 19,
           "name": "Electrotecnia",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 20,
           "name": "Circuitos electrónicos I y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 21,
           "name": "Bases de datos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 22,
           "name": "Introducción a las telecomunicaciones",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 23,
           "name": "Matemáticas especiales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 24,
           "name": "Circuitos electrónicos II y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 25,
           "name": "Circuitos digitales I y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 26,
           "name": "Programación en internet",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 27,
           "name": "Sensórica e instrumentación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 28,
           "name": "Estadística y probabilidad",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 29,
           "name": "Circuitos digitales II y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 30,
           "name": "Programación en Java",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 31,
           "name": "Circuitos digitales III y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 32,
           "name": "Potencia eléctrica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 33,
           "name": "Control I y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 35,
           "name": "Telefonía y conmutación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 36,
           "name": "Biomecánica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 37,
           "name": "Proyecto I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 38,
           "name": "Control II y laboratorio",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 39,
           "name": "Teleinformática",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 40,
           "name": "Electrónica de potencia",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 41,
           "name": "Fisiología",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 42,
           "name": "Evaluación de proyectos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 9
         },
         {
           "id": 34,
           "name": "Automatismos industriales",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 7
         },
         {
           "id": 43,
           "name": "Control de gestión",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 44,
           "name": "Biomedicina I",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 45,
           "name": "Electiva técnica I",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 46,
           "name": "Proyecto II",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 47,
           "name": "Seminario de investigación",
           "credits": 1,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 48,
           "name": "Dirección y planeación",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 10
         },
         {
           "id": 49,
           "name": "Biomedicina II",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 10
         },
         {
           "id": 50,
           "name": "Electiva técnica II",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": true,
+          "semester": 10
+        },
+        {
+          "id": 51,
+          "name": "Electiva técnica III",
+          "credits": 2,
+          "enrolled": true,
+          "completed": false,
+          "semester": 10
         },
         {
           "id": 52,
           "name": "Proyecto final",
           "credits": 5,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 10
         }
       ]
     },
@@ -3357,84 +3837,96 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Introducción a la bioingeniería",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Informática básica - Programación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Competencias comunicativas I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Biología general",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Química general",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 8,
           "name": "Diseño asistido",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 9,
           "name": "Circuitos digitales",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Matemáticas I (Cálculo diferencial)",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Física I",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 12,
           "name": "Química analítica",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         }
       ]
     },
@@ -3458,126 +3950,144 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Introducción a la bioingeniería",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Informática básica - Programación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Competencias comunicativas I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Biología general",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Química general",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 8,
           "name": "Diseño asistido",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 9,
           "name": "Circuitos digitales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Matemáticas I (Cálculo diferencial)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Física I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 12,
           "name": "Química analítica",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 13,
           "name": "Química orgánica",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 14,
           "name": "Física II",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 15,
           "name": "Circuitos eléctricos I",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 16,
           "name": "Competencias comunicativas II",
           "credits": 1,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 17,
           "name": "Matemáticas II (Cálculo integral y ecuaciones diferenciales)",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 18,
           "name": "Anatomía humana",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         }
       ]
     },
@@ -3601,371 +4111,424 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Introducción a la bioingeniería",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Informática básica - Programación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Competencias comunicativas I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Biología general",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Química general",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 8,
           "name": "Diseño asistido",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 9,
           "name": "Circuitos digitales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Matemáticas I (Cálculo diferencial)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Física I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 12,
           "name": "Química analítica",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 13,
           "name": "Química orgánica",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 14,
           "name": "Física II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 15,
           "name": "Circuitos eléctricos I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 16,
           "name": "Competencias comunicativas II",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 17,
           "name": "Matemáticas II (Cálculo integral y ecuaciones diferenciales)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 18,
           "name": "Anatomía humana",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 19,
           "name": "Bioquímica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 20,
           "name": "Biología celular y molecular",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 21,
           "name": "Física de fluidos, calor y ondas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 22,
           "name": "Fisiología humana",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 23,
           "name": "Matemáticas III (Cálculo vectorial)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 24,
           "name": "Ecología",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 25,
           "name": "Electrónica I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 26,
           "name": "Políticas y normas en bioingeniería",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 27,
           "name": "Electiva técnica",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 28,
           "name": "Mecánica de materiales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 29,
           "name": "Transformadas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 30,
           "name": "Legislación y normatividad técnica",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 31,
           "name": "Seminario de bioética",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 32,
           "name": "Fisiología animal comparada",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 33,
           "name": "Electrónica II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 34,
           "name": "Ecosistemas colombianos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 35,
           "name": "Estadística y probabilidad",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 36,
           "name": "Transductores",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 37,
           "name": "Sensórica e instrumentación",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 38,
           "name": "Sistemas de control",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 39,
           "name": "Dirección y planeación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 40,
           "name": "Electiva profesional I",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 41,
           "name": "Procesamiento de información biológica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 42,
           "name": "Biomecánica aplicada",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 43,
           "name": "Seminario de investigación",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 44,
           "name": "Electiva profesional II",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 45,
           "name": "Equipos de asistencia y rehabilitación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 46,
           "name": "Equipos de diagnóstico y soporte vital",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 47,
           "name": "Práctica social",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 48,
           "name": "Proyecto de ingeniería I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 49,
           "name": "Electiva profesional III",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 50,
           "name": "Práctica profesional",
           "credits": 7,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 51,
           "name": "Proyecto de ingeniería II",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 52,
           "name": "Gestión de proyectos",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         },
         {
           "id": 53,
           "name": "Taller de práctica profesional",
           "credits": 0,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         }
       ]
     },
@@ -3989,371 +4552,424 @@
           "name": "Matemáticas básicas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Introducción a la bioingeniería",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Informática básica - Programación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Competencias comunicativas I",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Biología general",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Química general",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 8,
           "name": "Diseño asistido",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 9,
           "name": "Circuitos digitales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Matemáticas I (Cálculo diferencial)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Física I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 12,
           "name": "Química analítica",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 13,
           "name": "Química orgánica",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 14,
           "name": "Física II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 15,
           "name": "Circuitos eléctricos I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 16,
           "name": "Competencias comunicativas II",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 17,
           "name": "Matemáticas II (Cálculo integral y ecuaciones diferenciales)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 18,
           "name": "Anatomía humana",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 19,
           "name": "Bioquímica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 20,
           "name": "Biología celular y molecular",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 21,
           "name": "Física de fluidos, calor y ondas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 22,
           "name": "Fisiología humana",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 23,
           "name": "Matemáticas III (Cálculo vectorial)",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 24,
           "name": "Ecología",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 25,
           "name": "Electrónica I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 26,
           "name": "Políticas y normas en bioingeniería",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 27,
           "name": "Electiva técnica",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 28,
           "name": "Mecánica de materiales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 29,
           "name": "Transformadas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 30,
           "name": "Legislación y normatividad técnica",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 31,
           "name": "Seminario de bioética",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 32,
           "name": "Fisiología animal comparada",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 33,
           "name": "Electrónica II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 34,
           "name": "Ecosistemas colombianos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 35,
           "name": "Estadística y probabilidad",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 36,
           "name": "Transductores",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 37,
           "name": "Sensórica e instrumentación",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 38,
           "name": "Sistemas de control",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 39,
           "name": "Dirección y planeación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 40,
           "name": "Electiva profesional I",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 41,
           "name": "Procesamiento de información biológica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 42,
           "name": "Biomecánica aplicada",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 43,
           "name": "Seminario de investigación",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 44,
           "name": "Electiva profesional II",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 45,
           "name": "Equipos de asistencia y rehabilitación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 46,
           "name": "Equipos de diagnóstico y soporte vital",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 47,
           "name": "Práctica social",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 48,
           "name": "Proyecto de ingeniería I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 49,
           "name": "Electiva profesional III",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 50,
           "name": "Práctica profesional",
           "credits": 7,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 51,
           "name": "Proyecto de ingeniería II",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 9
         },
         {
           "id": 52,
           "name": "Gestión de proyectos",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         },
         {
           "id": 53,
           "name": "Taller de práctica profesional",
           "credits": 0,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         }
       ]
     },
@@ -4377,77 +4993,88 @@
           "name": "Introducción a la ingeniería ambiental",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Matemáticas I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Fundamentos de ingeniería",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Química general y analítica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Biología y Ecología ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Estructura del pensamiento I",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Matemáticas II",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 8,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 4
         },
         {
           "id": 9,
           "name": "Física mecánica",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Química orgánica",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Estructura del pensamiento II",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         }
       ]
     },
@@ -4471,112 +5098,128 @@
           "name": "Introducción a la ingeniería ambiental",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Matemáticas I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Fundamentos de ingeniería",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Química general y analítica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Biología y Ecología ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Estructura del pensamiento I",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Matemáticas II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 8,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 9,
           "name": "Física mecánica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Química orgánica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Estructura del pensamiento II",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 12,
           "name": "Matemáticas III",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 13,
           "name": "Física de fluidos, calor y ondas",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 14,
           "name": "Química ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 15,
           "name": "Ecología del paisaje y servicios ecosistémicos",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 16,
           "name": "Geología, Geomorfología y Suelos",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 4
         }
       ]
     },
@@ -4600,273 +5243,440 @@
           "name": "Introducción a la ingeniería ambiental",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Matemáticas I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Fundamentos de ingeniería",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Química general y analítica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Biología y Ecología ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Estructura del pensamiento I",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Matemáticas II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 8,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 9,
           "name": "Física mecánica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Química orgánica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Estructura del pensamiento II",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 12,
           "name": "Matemáticas III",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 13,
           "name": "Física de fluidos, calor y ondas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 14,
           "name": "Química ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 15,
           "name": "Ecología del paisaje y servicios ecosistémicos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 16,
           "name": "Geología, Geomorfología y Suelos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 17,
           "name": "Técnicas de remediación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 18,
           "name": "Gestión del riesgo",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 19,
           "name": "Gestión de residuos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 20,
           "name": "Planificación ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 21,
           "name": "Estudios de impacto ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 22,
           "name": "Calidad del agua",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 23,
           "name": "Calidad del aire",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 24,
           "name": "Transporte y destino de contaminantes ambientales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 25,
           "name": "Tratamiento de agua potable y residual",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 26,
           "name": "Métodos de investigación en ingeniería",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 27,
           "name": "Capstone project I",
           "credits": 4,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 28,
           "name": "Seminario de bioética",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 29,
           "name": "Taller de práctica profesional en ingeniería",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 30,
           "name": "Economía ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 31,
           "name": "Formulación y evaluación de proyectos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 32,
           "name": "Capstone project II",
           "credits": 4,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         },
         {
           "id": 33,
           "name": "Gerencia de proyectos de ingeniería",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 7
         },
         {
           "id": 34,
           "name": "Política y legislación ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 4
         },
         {
           "id": 35,
           "name": "Estadística y probabilidad aplicada",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 3
         },
         {
           "id": 36,
           "name": "Práctica profesional",
           "credits": 7,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 8
         },
         {
           "id": 37,
           "name": "Electiva profesional I",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 6
         },
         {
           "id": 38,
           "name": "Electiva profesional II",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 7
         },
         {
           "id": 39,
           "name": "Electiva libre I",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
+        },
+        {
+          "id": 40,
+          "name": "Ecología Industrial",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 6
+        },
+        {
+          "id": 41,
+          "name": "Modelamiento ambiental",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true,
+          "semester": 5
+        },
+        {
+          "id": 42,
+          "name": "Sistemas de Información Geográfica",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 3
+        },
+        {
+          "id": 43,
+          "name": "Evaluación de Impacto Ambiental",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 7
+        },
+        {
+          "id": 44,
+          "name": "Monitoreo Ambiental",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 6
+        },
+        {
+          "id": 45,
+          "name": "Remediación de Suelos Contaminados",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 7
+        },
+        {
+          "id": 46,
+          "name": "Manejo de Recursos Naturales",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 5
+        },
+        {
+          "id": 47,
+          "name": "Diseño de Plantas de Tratamiento",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 7
+        },
+        {
+          "id": 48,
+          "name": "Gestión Ambiental Empresarial",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 7
+        },
+        {
+          "id": 49,
+          "name": "Evaluación de Riesgos Ambientales",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 7
+        },
+        {
+          "id": 50,
+          "name": "Tecnologías Limpias",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 6
+        },
+        {
+          "id": 51,
+          "name": "Legislación Ambiental Avanzada",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 4
+        },
+        {
+          "id": 52,
+          "name": "Proyectos de Desarrollo Sostenible",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 7
+        },
+        {
+          "id": 53,
+          "name": "Energías Renovables y Alternativas",
+          "credits": 3,
+          "enrolled": true,
+          "completed": false,
+          "semester": 7
+        },
+        {
+          "id": 54,
+          "name": "Cambio Climático y Adaptación",
+          "credits": 3,
+          "enrolled": true,
+          "completed": false,
+          "semester": 7
+        },
+        {
+          "id": 55,
+          "name": "Ecotoxicología",
+          "credits": 3,
+          "enrolled": true,
+          "completed": false,
+          "semester": 8
         }
       ]
     },
@@ -4890,273 +5700,360 @@
           "name": "Introducción a la ingeniería ambiental",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Matemáticas I",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Fundamentos de ingeniería",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Química general y analítica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Biología y Ecología ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Estructura del pensamiento I",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Matemáticas II",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 8,
           "name": "Álgebra lineal",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 9,
           "name": "Física mecánica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Química orgánica",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Estructura del pensamiento II",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 12,
           "name": "Matemáticas III",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 13,
           "name": "Física de fluidos, calor y ondas",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 14,
           "name": "Química ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 15,
           "name": "Ecología del paisaje y servicios ecosistémicos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 16,
           "name": "Geología, Geomorfología y Suelos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 17,
           "name": "Técnicas de remediación",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 18,
           "name": "Gestión del riesgo",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 19,
           "name": "Gestión de residuos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 20,
           "name": "Planificación ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 21,
           "name": "Estudios de impacto ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 22,
           "name": "Calidad del agua",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 23,
           "name": "Calidad del aire",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 24,
           "name": "Transporte y destino de contaminantes ambientales",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 25,
           "name": "Tratamiento de agua potable y residual",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 26,
           "name": "Métodos de investigación en ingeniería",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 27,
           "name": "Capstone project I",
           "credits": 4,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 28,
           "name": "Seminario de bioética",
           "credits": 1,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 2
         },
         {
           "id": 29,
           "name": "Taller de práctica profesional en ingeniería",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 30,
           "name": "Economía ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 5
         },
         {
           "id": 31,
           "name": "Formulación y evaluación de proyectos",
           "credits": 3,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 32,
           "name": "Capstone project II",
           "credits": 4,
           "enrolled": true,
-          "completed": false
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 33,
           "name": "Gerencia de proyectos de ingeniería",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": true,
+          "semester": 7
         },
         {
           "id": 34,
           "name": "Política y legislación ambiental",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": true,
+          "semester": 4
         },
         {
           "id": 35,
           "name": "Estadística y probabilidad aplicada",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": true,
+          "semester": 3
         },
         {
           "id": 36,
           "name": "Práctica profesional",
           "credits": 7,
           "enrolled": true,
-          "completed": false
+          "completed": true,
+          "semester": 8
         },
         {
           "id": 37,
           "name": "Electiva profesional I",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": true,
+          "semester": 6
         },
         {
           "id": 38,
           "name": "Electiva profesional II",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 7
         },
         {
           "id": 39,
           "name": "Electiva libre I",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": true,
+          "semester": 2
+        },
+        {
+          "id": 40,
+          "name": "Ecología Industrial",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 6
+        },
+        {
+          "id": 41,
+          "name": "Modelamiento ambiental",
+          "credits": 2,
+          "enrolled": true,
+          "completed": true,
+          "semester": 5
+        },
+        {
+          "id": 42,
+          "name": "Sistemas de Información Geográfica",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 6
+        },
+        {
+          "id": 43,
+          "name": "Evaluación de Impacto Ambiental",
+          "credits": 3,
+          "enrolled": true,
+          "completed": true,
+          "semester": 7
+        },
+        {
+          "id": 44,
+          "name": "Monitoreo Ambiental",
+          "credits": 3,
+          "enrolled": true,
+          "completed": false,
+          "semester": 7
+        },
+        {
+          "id": 45,
+          "name": "Remediación de Suelos Contaminados",
+          "credits": 3,
+          "enrolled": true,
+          "completed": false,
+          "semester": 8
         }
       ]
     },
@@ -5180,49 +6077,56 @@
           "name": "Gerencia de Productividad y Calidad",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Modelos Operacionales",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Logística de Distribución",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Gestión de Costos y Métodos de Inventarios",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Informática Industrial",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Gerencia de Recursos Humanos",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Metodología de la Investigación",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         }
       ]
     },
@@ -5246,49 +6150,56 @@
           "name": "Gerencia de Productividad y Calidad",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Modelos Operacionales",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Logística de Distribución",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Gestión de Costos y Métodos de Inventarios",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Informática Industrial",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Gerencia de Recursos Humanos",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Metodología de la Investigación",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 1
         }
       ]
     },
@@ -5312,102 +6223,116 @@
           "name": "Gerencia de Productividad y Calidad",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Modelos Operacionales",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Logística de Distribución",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Gestión de Costos y Métodos de Inventarios",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Informática Industrial",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Gerencia de Recursos Humanos",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Metodología de la Investigación",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 8,
           "name": "Gerencia Estratégica de Producción",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 9,
           "name": "Juego Gerencial",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Innovación y Tecnología",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Robótica y Telemática",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 12,
           "name": "Sistematización de la Producción",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 13,
           "name": "Salud Ocupacional",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 14,
           "name": "Trabajo de Grado",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         }
       ]
     },
-    "id": 23
+    "id": "23"
   },
   {
     "id_student": 22,
@@ -5427,101 +6352,115 @@
           "name": "Gerencia de Productividad y Calidad",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 2,
           "name": "Modelos Operacionales",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 3,
           "name": "Logística de Distribución",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 4,
           "name": "Gestión de Costos y Métodos de Inventarios",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 5,
           "name": "Informática Industrial",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 6,
           "name": "Gerencia de Recursos Humanos",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 7,
           "name": "Metodología de la Investigación",
           "credits": 2,
           "enrolled": true,
-          "completed": true
+          "completed": true,
+          "semester": 1
         },
         {
           "id": 8,
           "name": "Gerencia Estratégica de Producción",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 9,
           "name": "Juego Gerencial",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 10,
           "name": "Innovación y Tecnología",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 11,
           "name": "Robótica y Telemática",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 12,
           "name": "Sistematización de la Producción",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 13,
           "name": "Salud Ocupacional",
           "credits": 2,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         },
         {
           "id": 14,
           "name": "Trabajo de Grado",
           "credits": 3,
           "enrolled": true,
-          "completed": false
+          "completed": false,
+          "semester": 2
         }
       ]
     },
-    "id": 24
+    "id": "24"
   }
 ]
